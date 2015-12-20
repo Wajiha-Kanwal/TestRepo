@@ -9,3 +9,6 @@
 ######Heading 6
 
 >This is a block quote
+
+*This text will be italic*
+**This text will be bold**
